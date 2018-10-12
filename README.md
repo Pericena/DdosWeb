@@ -3,7 +3,7 @@ En internet, un ataque de denegación de servicio(DDoS) es el que se realiza cua
 
 
 ## Instrucción 🚀
-#####sistema opertaivo 
+##### sistema opertaivo 
 - windows
 
 ### Pre-requisitos 📋
@@ -20,14 +20,12 @@ En internet, un ataque de denegación de servicio(DDoS) es el que se realiza cua
 ## Ejecutando las pruebas ⚙️
 https://lpericena.blogspot.com/2018/10/DdosWeb.html
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DIYE-tTaZMI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[![Watch the video]()](https://www.youtube.com/watch?v=DIYE-tTaZMI)
+[![video](https://github.com/Pericena/DdosWeb/blob/master/Imagenes/Screenshot_2.png)](https://www.youtube.com/watch?v=DIYE-tTaZMI)
 
 ## Contribuyendo 🖇️
 
 Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+[CONTRIBUTING.md](https://github.com/Pericena)
