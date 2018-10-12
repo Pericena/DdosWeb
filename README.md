@@ -10,12 +10,12 @@ En internet, un ataque de denegación de servicio(DDoS) es el que se realiza cua
 -tener instalado powershell
 
 ### Instalación 🔧
-1 Descargar el programa.
-2 Ejecutar el programa .
-3 elegir el dominio o url que desea atacar.
-4 elegir el numero de paqutes que desea que haga el programa.
-5 elegir el numero de deveces que haga el ataque recomendación escribir el numero 1.
-6 Enter.
+- Descargar el programa.
+- Ejecutar el programa .
+- elegir el dominio o url que desea atacar.
+- elegir el numero de paqutes que desea que haga el programa.
+- elegir el numero de deveces que haga el ataque recomendación escribir el numero 1.
+- Enter.
 
 ## Ejecutando las pruebas ⚙️
 https://lpericena.blogspot.com/2018/10/DdosWeb.html
